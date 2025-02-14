@@ -1,4 +1,4 @@
-﻿源1
+山西﻿源
 CCTV1-HD,http://home.yulei.online:9999/udp/226.0.2.153:9136
 CCTV2-HD,http://home.yulei.online:9999/udp/226.0.2.154:9144
 CCTV3-HD,http://home.yulei.online:9999/udp/226.0.2.208:9576
@@ -172,7 +172,7 @@ CCTV风云剧场HD,http://home.yulei.online:9999/udp/226.0.2.227:9728
 阳泉-1新闻综合,http://home.yulei.online:9999/udp/226.0.2.233:9776
 阳泉-2科教,http://home.yulei.online:9999/udp/226.0.2.234:9784
 CHC家庭影院,http://home.yulei.online:9999/udp/226.0.2.240:9820
-源2
+北京源
 CCTV-1 HD,http://drive.mxmy.net:8888/udp/239.3.1.129:8008
 CCTV-2 HD,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
 CCTV-3 HD,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
