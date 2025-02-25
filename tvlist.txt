@@ -53,6 +53,7 @@ TVB星河台,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052641
 TVB娱乐,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052635
 TVBS欢乐台,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052644
 Weather Nation,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71489
+Fox News,https://tvpass.org/live/FoxNewsChannel/hd
 Fox News,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1084575
 Fox Business,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71494
 NBC News Now,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/232800
@@ -69,6 +70,7 @@ Insight,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/271344
 Bloomberg+,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/271345
 Sony Movies,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/977688
 Comedy Movies,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121096
+CTV WILD,http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 KBS World,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/977690
 BBC Earth,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/543291
 Premier Sports,http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/543256
