@@ -3054,3 +3054,67 @@ Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 Erox HD,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 Leo HD,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 Reality Kings HD,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+O-la-la! (576p),http://31.148.48.15/O-la-la/index.m3u8
+Silk (1080p),http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
+Visit-X TV (720p),https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+Anal (720p),https://cdn.adultiptv.net/anal.m3u8
+Asian (720p),https://cdn.adultiptv.net/asian.m3u8
+Big Ass (720p),https://cdn.adultiptv.net/bigass.m3u8
+Big Dick (720p),https://cdn.adultiptv.net/bigdick.m3u8
+Big Tits (720p),https://cdn.adultiptv.net/bigtits.m3u8
+Blonde (720p),https://cdn.adultiptv.net/blonde.m3u8
+Blowjob (720p),https://cdn.adultiptv.net/blowjob.m3u8
+Brunette (720p),https://cdn.adultiptv.net/brunette.m3u8
+Compilation (720p),https://cdn.adultiptv.net/compilation.m3u8
+Cuckold (720p),https://cdn.adultiptv.net/cuckold.m3u8
+Fetish (720p),https://cdn.adultiptv.net/fetish.m3u8
+Gangbang (720p),https://cdn.adultiptv.net/gangbang.m3u8
+Gay (720p),https://cdn.adultiptv.net/gay.m3u8
+Hardcore (720p),https://cdn.adultiptv.net/hardcore.m3u8
+Interracial (720p),https://cdn.adultiptv.net/interracial.m3u8
+Latina (720p),https://cdn.adultiptv.net/latina.m3u8
+Lesbian (720p),https://cdn.adultiptv.net/lesbian.m3u8
+Live Cams (720p),https://cdn.adultiptv.net/livecams.m3u8
+MILF (720p),https://cdn.adultiptv.net/milf.m3u8
+Pornstar (720p),https://cdn.adultiptv.net/pornstar.m3u8
+POV (720p),https://cdn.adultiptv.net/pov.m3u8
+Rough (720p),https://cdn.adultiptv.net/rough.m3u8
+Russian (720p),https://cdn.adultiptv.net/russian.m3u8
+Teen (720p),https://cdn.adultiptv.net/teen.m3u8
+Threesome (720p),https://cdn.adultiptv.net/threesome.m3u8
+Woman (720p),https://live.redtraffic.net/woman.m3u8
+Babestation24 (720p),https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+Blue Hustler (720p),http://193.33.240.8:8080/hustler_hd/index.m3u8
+Brazzers TV Europe (720p),https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+Dorcel TV (720p),https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
+EroX HD (720p),https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
+EroXXX HD (720p),https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
+Hustler HD (720p),https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
+Jasmin TV (1080p),http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+Jenny For You (720p),https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
+Miami TV (720p),https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+Jenny Live (720p),https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+Mexico (1080p),https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+Anal (720p),https://live.mycamtv.com/anal.m3u8
+Arab (720p),http://live.mycamtv.com/arab.m3u8
+Asian (720p),https://live.mycamtv.com/asian.m3u8
+Big Ass (720p),https://live.mycamtv.com/defstream.m3u8
+Big Tits (720p),https://live.mycamtv.com/bigtits.m3u8
+Blonde (720p),https://live.mycamtv.com/blonde.m3u8
+Blowjob (720p),http://live.mycamtv.com/blowjob.m3u8
+Brunette (720p),https://live.mycamtv.com/brunette.m3u8
+Latina (720p),https://live.mycamtv.com/latina.m3u8
+Medium (720p),http://live.mycamtv.com/medium.m3u8
+MILF (720p),http://live.mycamtv.com/milf.m3u8
+Skinny (720p),https://live.mycamtv.com/arab.m3u8
+Squirt (720p),https://live.mycamtv.com/squirt.m3u8
+Teen (720p),http://live.mycamtv.com/teen.m3u8
+White (720p),https://live.mycamtv.com/white.m3u8
+Young (720p),http://live.mycamtv.com/young.m3u8
+一本03,http://live.redtraffic.xyz:80/bigass.m3u8
+二本04,http://live.redtraffic.xyz:80/blowjob.m3u8
+欧美01,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+欧美02,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+松视1,http://live.redtraffic.xyz:80/fetish.m3u8
+玩美台,http://live.redtraffic.xyz:80/pov.m3u8
+限制级,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
