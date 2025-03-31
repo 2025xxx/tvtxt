@@ -1,6 +1,6 @@
 央卫V6-爱尚,#genre#
 CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
-CCTV2,http://125.43.249.172:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225643/2/index.m3u8
 CCTV2,http://36.40.236.2:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://116.117.107.231:8096/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://116.117.104.234:8096/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3117,3 +3117,4 @@ Young (720p),http://live.mycamtv.com/young.m3u8
 松视1,http://live.redtraffic.xyz:80/fetish.m3u8
 玩美台,http://live.redtraffic.xyz:80/pov.m3u8
 限制级,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+GAYTV,http://89.37.116.201:8000/live/Bc:7e:8b:3b:cf:17/dzFyE4TD61/297068.m3u8
