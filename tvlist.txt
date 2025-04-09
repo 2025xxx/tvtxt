@@ -228,9 +228,11 @@ VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 DALU,#genre#
 HBO,http://108.181.20.197/livehttpplay?channel_id=20093
 HBO IGNATURE,http://108.181.20.197/livehttpplay?channel_id=20314
+http://108.181.20.197/livehttpplay?channel_id=20314
 HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 HBOHITS,http://108.181.20.197/livehttpplay?channel_id=20091
 HBOFAMILY,http://108.181.20.197/livehttpplay?channel_id=20092
+HBO F,http://50.7.234.10:8278/Hbofamily/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=4b38e6d57242e62a2043799c3cb4178a
 TVBS NEWSHD,http://122.117.71.103:8556/http/220.130.87.218:8081/hls/71/813/ch041.m3u8
 AFV,https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 HBO Plus SD,https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
