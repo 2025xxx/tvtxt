@@ -226,20 +226,14 @@ ABNCHINA,https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 港澳v4-爱尚,#genre#
 鳯凰中文,http://qctv.fengshows.cn/live/0701pcc48.flv?txSecret=89fc07a06973217f08067678cca6bb3f&txTime=679c212a
 鳯凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8
-鳯凰資訊,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/phoenixinfo_hd/playlist.m3u8
-鳯凰資訊,http://dns.yiandrive.com:15907/phenix/fhzx
 鳯凰資訊,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
-鳯凰資訊,http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
 鳯凰資訊,http://qctv.fengshows.cn/live/0701pin48.flv?txSecret=c82f1e723999fb828c9f0c44e1217856&txTime=679c224a
 鳯凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 鳯凰資訊,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8
-鳳凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
-鳳凰香港,http://139.196.228.200:5678/公众号搞机大师/fhx.php?id=hk
 无线翡翠,http://php.jdshipin.com/smt.php?id=Tvbjade
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-鳳凰香港,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hkphoenix_twn/playlist.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq/playlist.m3u8?wsSession=58fb87f3f5d08acd48abbc8e-173873172945927&wsIPSercert=326441c8ea9fc08387baba37c36305fd
@@ -254,16 +248,7 @@ ABNCHINA,https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 AMCEAS,http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-TVB Plus,http://27.148.142.27/libof.kesx.top/live/5658kwkozjt.m3u8?wsSession=3d5054a51406944e5071d6ad-173901963204416&wsIPSercert=9de9757d70ef540630c3b0f358ba0c6d&wsiphost=local&wsBindIP=1
-TVB Plus,http://108.181.20.181/livehttpplay?channel_id=30030
-TVB Plus,http://108.181.20.181/livehttpplay?channel_id=20122
-ViuTV,http://108.181.20.181/livehttpplay?channel_id=30032
-viuTV,http://108.181.20.181/livehttpplay?channel_id=20131
-viuTV6,http://108.181.20.181/livehttpplay?channel_id=20132
-ViuTV6,http://108.181.20.181/livehttpplay?channel_id=30033
-RHK31,http://108.181.20.181/livehttpplay?channel_id=30066
-RTHK 32,http://108.181.20.181/livehttpplay?channel_id=20203
-RTHK 32,http://108.181.20.181/livehttpplay?channel_id=30028
+
 
 央卫V4-爱尚,#genre#
 CCTV1,http://211.101.234.24:866/aishang/migu.php?id=cctv1
