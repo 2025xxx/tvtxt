@@ -1,4 +1,5 @@
 央视,#genre#
+CCTV1,https://pull-flv-f1.douyincdn.com/media/stream-7496156586801515279_sd.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-2025042312464313B7E2978B23E19551AF-yiPma9&unique_id=stream-7496156586801515279_684_flv_sd&wsSecret=e782c6bf5363eef4257d895d91d08062&wsTime=680870b4&abr_pts=-800&_session_id=037-2025042312464313B7E2978B23E19551AF-yiPma9.1745383604257.60721&rsi=1
 CCTV1,http://123.159.125.38:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://221.213.119.80:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://123.159.125.38:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -11,6 +12,7 @@ CCTV3,http://123.159.125.38:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&a
 CCTV3,http://221.213.119.80:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3,http://123.52.109.89:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,https://pull-flv-f11.douyincdn.com/media/stream-7496352131819735834_sd.flv?arch_hrchy=w1&expire=1745988481&major_anchor_level=common&sign=beb366950cfa7c46e708911b86a1a19a&t_id=037-20250423124800D099446A1ADFDF4F0A50-QYxXSm&unique_id=stream-7496352131819735834_684_flv_sd&abr_pts=-800&_session_id=037-20250423124800D099446A1ADFDF4F0A50-QYxXSm.1745383684013.92551&rsi=1
 CCTV4,http://123.159.125.38:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV4,http://221.213.119.80:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV4,http://183.131.246.250:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -46,6 +48,7 @@ CCTV11,http://221.213.119.80:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&
 CCTV11,http://221.13.235.178:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://123.159.125.38:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV12,http://221.213.119.80:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13,https://pull-flv-f26.douyincdn.com/media/stream-7496353542995807013_sd.flv?arch_hrchy=w1&expire=6811ac08&major_anchor_level=common&sign=435f69e7d734252a2f9967c75d428f9a&t_id=037-2025042312501588BBBC32BFDF0B971351-yNQlp7&unique_id=stream-7496353542995807013_684_flv_sd&abr_pts=-800&_session_id=037-2025042312501588BBBC32BFDF0B971351-yNQlp7.1745383815864.96183&rsi=1
 CCTV13,http://123.159.125.38:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV13,http://221.213.119.80:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV13,http://183.131.246.250:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -68,6 +71,7 @@ CCTV17,http://59.32.97.140:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&au
 CCTV17,http://36.44.157.178:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://221.213.119.80:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV17,http://116.11.156.95:8811/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+新华社,https://pull-flv-f26.douyincdn.com/media/stream-405359977083699884_sd.flv?arch_hrchy=w1&exp_hrchy=w1&expire=6811ac95&major_anchor_level=common&sign=69ac1db7c9757d33dce88ae401387178&t_id=037-20250423125237966112D39DDA349F2083-QKyfBN&unique_id=stream-405359977083699884_684_flv_sd&abr_pts=-800&_session_id=037-20250423125237966112D39DDA349F2083-QKyfBN.1745383957521.51742&rsi=1
 CCTVCCTV台球,http://211.141.56.169:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTVCCTV文化精品,http://59.32.97.140:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV世界地理,http://211.141.56.169:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
