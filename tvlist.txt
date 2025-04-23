@@ -21,6 +21,7 @@ CCTV5,http://175.0.78.209:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&aut
 CCTV5,http://183.131.246.250:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://221.13.234.192:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://36.44.157.178:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,https://pull-flv-f11.douyincdn.com/media/stream-7495655582330817318.flv?exp_hrchy=w1&expire=1745912363&major_anchor_level=common&sign=3609f6d4e299219ae7038b95534da3e6&t_id=037-202504221539225CF23B3C445E8F02426F-XMCPR4&unique_id=stream-7495655582330817318_684_flv&abr_pts=-800&_session_id=037-202504221539225CF23B3C445E8F02426F-XMCPR4.1745307566600.79252&rsi=1
 CCTV6,http://123.159.125.38:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV6,http://221.213.119.80:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV6,http://218.92.37.174:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
