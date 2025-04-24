@@ -769,7 +769,7 @@ Comedy Movies,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121096
 Discovery,https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 ABNCHINA,https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 
-电影v4,#genre#
+电影台,#genre#
 緯來電影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
 龍華電影,http://122.117.71.103:8555/http/61.222.53.250:8068/hls/10/80/cstv10.m3u8
 HBO 频道,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
@@ -790,7 +790,7 @@ AMC 電影,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-
 新昌休闲,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
                   
 
-河南郑州联通,#genre#
+郑州联通,#genre#
 亳州新闻,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
@@ -913,7 +913,7 @@ AMC 電影,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-
 淅川综合[1920*1080],http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
 新乡[1920*1408],http://live.dxhmt.cn:9081/tv/10721-1.m3u8
 
-MTV音乐-爱尚,#genre#
+MTV音乐,#genre#
 今日热歌DJ《如果爱还在》,https://vd2.bdstatic.com/mda-mhhf5mr00yyhpfjs/1080p/cae_h264/1629284581057661229/mda-mhhf5mr00yyhpfjs.mp4
 推荐9首DJ舞曲,https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
 动感DJ《苦了累了听听歌》,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728/mda-mhqekuf2r91v08dt.mp4
@@ -1199,7 +1199,7 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 英雄泪,https://vd3.bdstatic.com/mda-mben1iextqu3in9c/v1-cae/sc/mda-mben1iextqu3in9c.mp4
 当兵的人,https://vd2.bdstatic.com/mda-kjbb0xzvqi8ew4u7/sc/mda-kjbb0xzvqi8ew4u7.mp4
 
-春晚v4-爱尚,#genre#
+春晚v4,#genre#
 1983年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 1984年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 1985年中央电视台春节联欢晚会,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
@@ -1263,7 +1263,7 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 2024年中央广播电视总台网络,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 2025年中央电视台春节联欢晚会,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 
-兮兮_7789,#genre#
+兮兮_0011,#genre#
 Visit-X,https://stream.visit-x.tv/vxtv/live/playlist.m3u8#http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
