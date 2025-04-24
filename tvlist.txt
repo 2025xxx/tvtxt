@@ -45,7 +45,7 @@ CCTV11,http://221.213.119.80:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&
 CCTV11,http://221.13.235.178:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://123.159.125.38:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV12,http://221.213.119.80:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-CTV13,http://123.159.125.38:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13,http://123.159.125.38:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV13,http://221.213.119.80:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV13,http://183.131.246.250:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -273,8 +273,6 @@ CCTV台球,http://222.169.41.80:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive
 风云音乐,http://222.169.41.80:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视,#genre#
-
-SCTV康巴卫视,http://124.161.172.33:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
 三沙卫视,http://59.32.97.140:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://116.11.156.66:8811/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://59.32.97.140:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -711,6 +709,8 @@ SCTV康巴卫视,http://124.161.172.33:9901/tsfile/live/1010_1.m3u8?key=txiptv&p
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 有线新闻台,http://live4play.uk/livehttpplay?channel_id=20191
 Plus即时,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+HBO,http://live4play.uk/livehttpplay?channel_id=20093
+HBO IN,http://108.181.20.197/livehttpplay?channel_id=20314
 HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 HBO,http://122.117.71.103:8556/http/220.130.87.218:8081/hls/71/813/ch041.m3u8#http://108.181.20.197/livehttpplay?channel_id=20093
 HBO IGNATURE,http://108.181.20.197/livehttpplay?channel_id=20314
@@ -725,6 +725,7 @@ HBO HITS,http://50.7.234.10:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639
 HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 英文台,#genre#
+HBO,http://108.181.20.197/livehttpplay?channel_id=20093
 HBO Comedy,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17773
 HBO Singnature,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9266
 HBO Zone,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9265
