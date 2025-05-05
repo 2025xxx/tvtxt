@@ -1,4 +1,5 @@
 央视,#genre#
+CCTV1,https://cdn.163.dedyn.io/live/cctv1/stream.m3u8
 CCTV1,http://123.159.125.38:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://221.213.119.80:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://123.159.125.38:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -729,10 +730,16 @@ CCTV台球,http://222.169.41.80:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 有线新闻台,http://live4play.uk/livehttpplay?channel_id=20191
+有线综合,http://cdn.163.dedyn.io/live/hoy/stream.m3u8
+无线翡翠,http://cdn.163.dedyn.io/live/fct4k/stream.m3u8
+无线明珠,http://cdn.163.dedyn.io/live/mzt/stream.m3u8
 星空卫视,http://171.213.141.30:9999/rtp/239.93.0.156:2193
 星空卫视,http://171.213.141.30:9999/rtp/239.93.1.10:2193
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 Plus即时,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+TVB Plus,http://cdn.163.dedyn.io/live/tvbp/stream.m3u8
+RTHK-31,http://cdn.163.dedyn.io/live/rthk31/stream.m3u8
+RTHK-32,http://cdn.163.dedyn.io/live/rthk32/stream.m3u8
 台视HD,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
