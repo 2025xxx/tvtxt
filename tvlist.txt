@@ -1,23 +1,17 @@
 央视,#genre#
-CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27
 CCTV1,http://nctv.top/IDOEPpiryt/migu.php?id=cctv1
 CCTV2,http://nctv.top/IDOEPpiryt/migu.php?id=cctv2
 CCTV3,http://nctv.top/IDOEPpiryt/migu.php?id=cctv3
 CCTV4,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4
-CCTV4欧洲,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4o
-CCTV4美洲,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4m
 CCTV5,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5
 CCTV5+,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5p
 CCTV6,http://nctv.top/IDOEPpiryt/migu.php?id=cctv6
-CCTV7,http://8.138.7.223/tv/cctv7.m3u8
 CCTV7,http://nctv.top/IDOEPpiryt/migu.php?id=cctv7
 CCTV8,http://nctv.top/IDOEPpiryt/migu.php?id=cctv8
 CCTV9,http://nctv.top/IDOEPpiryt/migu.php?id=cctv9
 CCTV10,http://nctv.top/IDOEPpiryt/migu.php?id=cctv10
 CCTV11,http://nctv.top/IDOEPpiryt/migu.php?id=cctv11
 CCTV12,http://nctv.top/IDOEPpiryt/migu.php?id=cctv12
-CCTV13,http://8.138.7.223/tv/ptbtv.php?id=28
-CCTV13,http://8.138.7.223/tv/gzjs.m3u8
 CCTV13,http://nctv.top/IDOEPpiryt/migu.php?id=cctv13
 CCTV14,http://nctv.top/IDOEPpiryt/migu.php?id=cctv14
 CCTV15,http://nctv.top/IDOEPpiryt/migu.php?id=cctv15
@@ -27,8 +21,6 @@ CCTV1,http://tvbox6.icu/tv/migu.php?id=cctv1
 CCTV2,http://tvbox6.icu/tv/migu.php?id=cctv2
 CCTV3,http://tvbox6.icu/tv/migu.php?id=cctv3
 CCTV4,http://tvbox6.icu/tv/migu.php?id=cctv4
-CCTV4美洲,http://tvbox6.icu/tv/migu.php?id=cctv4a
-CCTV4欧洲,http://tvbox6.icu/tv/migu.php?id=cctv4o
 CCTV5,http://tvbox6.icu/tv/migu.php?id=cctv5
 CCTV5+,http://tvbox6.icu/tv/migu.php?id=cctv5p
 CCTV6,http://tvbox6.icu/tv/migu.php?id=cctv6
@@ -790,6 +782,7 @@ CCTV台球,http://222.169.41.80:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive
 无线明珠,http://cdn.163.dedyn.io/live/mzt/stream.m3u8
 星空卫视,http://171.213.141.30:9999/rtp/239.93.0.156:2193
 星空卫视,http://171.213.141.30:9999/rtp/239.93.1.10:2193
+Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 Plus即时,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVB Plus,http://cdn.163.dedyn.io/live/tvbp/stream.m3u8
@@ -809,6 +802,8 @@ RTHK-32,http://cdn.163.dedyn.io/live/rthk32/stream.m3u8
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
+天映电影,http://live4play.uk/livehttpplay?channel_id=10130
+天映经典,http://live4play.uk/livehttpplay?channel_id=20063
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
@@ -816,8 +811,72 @@ RTHK-32,http://cdn.163.dedyn.io/live/rthk32/stream.m3u8
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
-CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
-HBO,http://live4play.uk/livehttpplay?channel_id=20093
+东森新闻,http://live4play.uk/livehttpplay?channel_id=20082
+三立新闻,http://live4play.uk/livehttpplay?channel_id=10126
+年代新闻,http://live4play.uk/livehttpplay?channel_id=20033
+非凡新闻,http://live4play.uk/livehttpplay?channel_id=20034
+闽壹新闻,http://live4play.uk/livehttpplay?channel_id=20028
+今日新闻,http://live4play.uk/livehttpplay?channel_id=20043
+台视闽南,http://live4play.uk/livehttpplay?channel_id=20076
+tvbs闽南,http://live4play.uk/livehttpplay?channel_id=20085
+tvbs欢乐,http://live4play.uk/livehttpplay?channel_id=20105
+tvbs精彩,http://live4play.uk/livehttpplay?channel_id=20136
+三立戏剧,http://live4play.uk/livehttpplay?channel_id=10125
+中天娱乐,http://live4play.uk/livehttpplay?channel_id=20079
+中天综合,http://live4play.uk/livehttpplay?channel_id=20064
+八大综合,http://live4play.uk/livehttpplay?channel_id=20068
+八大精彩,http://live4play.uk/livehttpplay?channel_id=20052
+八大第一,http://live4play.uk/livehttpplay?channel_id=20073
+八大娱乐,http://live4play.uk/livehttpplay?channel_id=20071
+东森戏剧,http://live4play.uk/livehttpplay?channel_id=20072
+东森财经,http://live4play.uk/livehttpplay?channel_id=20078
+东森洋片,http://live4play.uk/livehttpplay?channel_id=20080
+龙华偶像,http://live4play.uk/livehttpplay?channel_id=20023
+龙华电影,http://live4play.uk/livehttpplay?channel_id=10129
+好莱坞电影标,http://live4play.uk/livehttpplay?channel_id=20062
+Fgm电影,http://live4play.uk/livehttpplay?channel_id=10123
+cn卡通频道标,http://live4play.uk/livehttpplay?channel_id=20048
+BBC地球,http://live4play.uk/livehttpplay?channel_id=20044
+国家地理,http://live4play.uk/livehttpplay?channel_id=20037
+新加坡-8,http://live4play.uk/livehttpplay?channel_id=10132
+博斯运动,http://live4play.uk/livehttpplay?channel_id=10131
+五星体育,http://live4play.uk/livehttpplay?channel_id=20060
+
+
+英文台,#genre#
+BBC,http://198.16.100.186:8278/bbc1_antik/playlist.m3u8?tid=MF9F5104188751041887&ct=19317&tsum=d9d161255fab7747b92a36b17e6fcf9a
+BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+BBC Earth,http://198.16.100.186:8278/bbcearth_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=8998ac4daa157eb2ea8f9229d4411dff
+BBC Earth,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklistw1216149699.m3u8
+BBC Earth Lifestyle,http://198.16.100.186:8278/bbclifestyle_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=96ea5a93240e4df67859c41c18f7e8f7
+BBC World News,http://198.16.100.186:8278/Bbcnews/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b194a4c4dfa9013dd6103099d8125552
+BBC World News,http://198.16.100.186:8278/bbcnews_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=bd2772a88f50da7682a7c1ef77373a87
+BBC WORLD NEWS,http://198.16.100.186:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+BBC1,http://198.16.100.186:8278/bbc1_antik/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=7a116c7f70fea0f5285b4640057727a4
+BBC1,http://198.16.100.186:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+BBC1,http://50.7.234.10:8278/bbc1_antik/playlist.m3u8?tid=ME3E1183863811838638&ct=19254&tsum=0840dd585f58cedffd284559c0694b76
+BBC2,http://198.16.100.186:8278/bbc2_antik/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3d16eb33d8c4fd0a385ec236f7fc198d
+BBC2,http://198.16.100.186:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
+BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+Berita Satu,http://198.16.100.186:8278/BeritaSatu_eko/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=3d62701e711c2cd6a892d23ccfe749e2
+HBO,http://108.181.20.197/livehttpplay?channel_id=20093
+HBO Comedy,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17773
+HBO Singnature,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9266
+HBO IGNATURE,http://156.253.12.5:932/tslive/IPTV.php?id=HBO%E5%8E%9F%E5%89%B5%E9%89%85%E7%8D%BB
+HBO Zone,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9265
+CTV WILD,http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+Discovery Science,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53695
+Nat Geo Wild East,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/11664
+National Geographic,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46722
+Discovery Life,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9861
+Discovery Family,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/10538
+Discovery Channel East,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9811
+Comedy Movies,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121096
+Discovery,https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+ABNCHINA,https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 HBO IN,http://108.181.20.197/livehttpplay?channel_id=20314
 HBO HD,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 HBO,http://122.117.71.103:8556/http/220.130.87.218:8081/hls/71/813/ch041.m3u8#http://108.181.20.197/livehttpplay?channel_id=20093
@@ -831,22 +890,35 @@ HBO Plus SD,https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u
 HBO 2 DIRECTV,https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 HBO HITS,http://50.7.234.10:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+Discovery,http://198.16.100.186:8278/discoveryhd_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=c045c78d690ff4e418a097771edaeb3d
+Discovery  Asia,http://198.16.100.186:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
+Discovery Asia,http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
+Discovery Asia,http://198.16.100.186:8278/discoverytwn_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=b95992141dc506f074e185e82f92bcf4
+Discovery Kids Tamil,http://198.16.100.186:8278/discoverykidtamil_raj/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=37135a1d73102a9192c52cef8273065d
+Discovery Kids Tamil,http://50.7.234.10:8278/discoverykidtamil_raj/playlist.m3u8?tid=MC1C6666962666669626&ct=19254&tsum=5c7c203bde4f208923e38663dbbc3a4e
+Discovery Science,http://doubleclicktv.live:80/70376812/52663544/469
+Discovery World Tamil,http://50.7.234.10:8278/discoveryworldtam_raj/playlist.m3u8?tid=MCEC6115648861156488&ct=19254&tsum=37c93ae7da63829245608ed1857a0f97
+Discovery World Tamil,http://198.16.100.186:8278/discoveryworldtam_raj/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=690aa5e0c6bc3a7916fc42b4c5082d70
+DiscoveryHD,http://198.16.100.186:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
+DiscoveryKidsTamil,http://198.16.100.186:8278/discoverykidtamil_raj/playlist.m3u8?tid=MC1C6666962666669626&ct=19254&tsum=5c7c203bde4f208923e38663dbbc3a4e
+DiscoveryWorldTamil,http://198.16.100.186:8278/discoveryworldtam_raj/playlist.m3u8?tid=MCEC6115648861156488&ct=19254&tsum=37c93ae7da63829245608ed1857a0f97
+Fox News,http://198.16.100.186:8278/foxnews_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=dbc31fe99aba509476ea2a48ab135ea9
+FoxNews,http://198.16.100.186:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
+France24,http://198.16.100.186:8278/france24_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=da10ccb4b3c2c7462b076381c7e5f5ac
+France24*,http://50.7.234.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
+HBO Family,http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
+HBO Family,http://198.16.100.186:8278/Hbofamily/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=331322dc3b8b769b97f72fb58165833f
+HBO Hits,http://198.16.100.186:8278/hbohits_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=388b55d21969e4f8a872037faa55ab7d
+HBO Hits,http://198.16.100.186:8278/Hbohits/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=310e67481fde8bb83fbb5faf5f58d898
+HBOHD,http://198.16.100.186:8278/Hbo/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=d80659116f0092678bbdb8e6077c1bf6
+HBOHD,http://198.16.100.186:8278/hbohd_twn/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=090dc9ce31b300b3055afbf7e2bcec02
+HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+HBO强档巨献,http://50.7.234.10:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+HBO原创巨献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+HBO原创巨献,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+HGTV,http://198.16.100.186:8278/HGTV/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=2db334a3bcea159684585e426a701f52
+VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 
-英文台,#genre#
-HBO,http://108.181.20.197/livehttpplay?channel_id=20093
-HBO Comedy,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17773
-HBO Singnature,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9266
-HBO Zone,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9265
-CTV WILD,http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
-Discovery Science,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53695
-Nat Geo Wild East,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/11664
-National Geographic,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46722
-Discovery Life,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9861
-Discovery Family,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/10538
-Discovery Channel East,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9811
-Comedy Movies,http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121096
-Discovery,https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-ABNCHINA,https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 
 电影台,#genre#
 緯來電影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8
