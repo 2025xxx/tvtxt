@@ -1,4 +1,5 @@
 央视,#genre#
+HOY 資訊,tvbus://6s5LUcBcDf6dcCibfzjpoU4rNjwNYcyESCB6wU6ortRiAoz7PT#tvbus://7JkVrTprq4ScyUKB1JCzELUf7bVS4wiQy9mtDK3Z6AM4PvcA7m#tvbus://5LZveFcac4QiJnLDoHN2HEFHCpZ6QJJd9QoqEGFFV4ScemYPNQvUNGCeHLWtZ#tvbus://5fx52PHn95vLQStXNVkAt9xfnnDqnpHAKqooRu1mUR1DgZBqE5MgeVoVgpD8p#tvbus://5e2N6ajS8LaqpvwBqyza8ogABezSp9i1ffNAB6R1PXUM8xLHFgBqWWTq3PPn3
 CCTV1,http://nctv.top/IDOEPpiryt/migu.php?id=cctv1
 CCTV2,http://nctv.top/IDOEPpiryt/migu.php?id=cctv2
 CCTV3,http://nctv.top/IDOEPpiryt/migu.php?id=cctv3
