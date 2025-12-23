@@ -117,6 +117,15 @@ Plus即时,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 
 
 英文台,#genre#
+HBO,https://fl2.moveonjoy.com/HBO/index.m3u8
+
+FXX East,http://fl2.moveonjoy.com/FXX/index.m3u8
+SEC Network,http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
+NBC Golf,http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+Freeform East,http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+SYFY East,http://fl2.moveonjoy.com/SYFY/index.m3u8
+Oxygen True Crime,http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+FX East,http://fl2.moveonjoy.com/FX/index.m3u8
 CNN,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129637
 BBC News,http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/445134
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -159,11 +168,51 @@ HBO 2 DIRECTV,https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 HBO Family,http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 HBO Family,http://198.16.100.186:8278/Hbofamily/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=331322dc3b8b769b97f72fb58165833f
 VOA,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-
+Disney Channel East, http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+DisneyJr East, http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+DisneyXD East, http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+ABC East (WOLO) (Columbia), http://fl2.moveonjoy.com/ABC_EAST/index.m3u8
+TLC East, http://fl2.moveonjoy.com/TLC/index.m3u8
+HBO East, http://fl2.moveonjoy.com/HBO/index.m3u8
+HBO2 East, http://fl2.moveonjoy.com/HBO_2/index.m3u8
+HBO Comedy East, http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+HBO Family East, http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+HBO Zone East, http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
+Starz East, http://fl2.moveonjoy.com/STARZ/index.m3u8
+Starz Encore East, http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+Starz Comedy East, http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+Starz Encore Action, http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+Starz Encore Westerns, http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+Showtime East, http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+Showtime 2 East, http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+Showtime Extreme East, http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+Showtime Next East, http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+Showtime Women East, http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+Cinemax East, http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+Cartoon Network / [adult swim], http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+BBC America: http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+Lifetime East, http://fl2.moveonjoy.com/LIFETIME/index.m3u8
+Lifetime Movie Network, http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+BET Her East, http://fl2.moveonjoy.com/BET_HER/index.m3u8
+BET Soul, http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+BET Gospel, http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
 
 电影台,#genre#
 绍兴影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 新昌休闲,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+HBO FRANCE,http://148.113.160.49:14188
+HBO FRANCE,http://148.113.160.49:14187
+HBO +,http://148.113.160.49:14192
+HBO +,http://148.113.160.49:14193
+HBO +,http://148.113.160.49:14194
+HBO POP,http://148.113.160.49:14180
+HBO POP,http://148.113.160.49:14181
+HBO POP,http://148.113.160.49:14182
+HBO MUNDI,http://148.113.160.49:14185
+HBO MUNDI,http://148.113.160.49:14183
+HBO MUNDI,http://148.113.160.49:14184
+HBO XTREME,http://148.113.160.49:14175
+HBO FAMILY,http://148.113.160.49:14190
 
 
 郑州联通,#genre#
@@ -2481,6 +2530,7 @@ SPA养生之道10-26渴望得到满足的人妻,https://t27.cdn2020.com/video/m3
 看着眼前的女仆萝莉太长时间没操了,https://t30.cdn2020.com/video/m3u8/2025/03/06/90bdc36d/index.m3u8
 警花张津瑜七段整合不雅视频流出,https://t27.cdn2020.com/video/m3u8/2022/07/25/0debd4bc/index.m3u8
 反差婊母狗 清纯靓丽百万粉丝网红 职业汉服模特 焕儿,https://play.baiwanbf.com/20241017/7vl0d9oy/index.m3u8
+
 
 
 
