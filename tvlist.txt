@@ -118,7 +118,6 @@ Plus即时,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 
 英文台,#genre#
 HBO,https://fl2.moveonjoy.com/HBO/index.m3u8
-
 FXX East,http://fl2.moveonjoy.com/FXX/index.m3u8
 SEC Network,http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
 NBC Golf,http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
@@ -171,7 +170,7 @@ VOA,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 Disney Channel East, http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 DisneyJr East, http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 DisneyXD East, http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
-ABC East (WOLO) (Columbia), http://fl2.moveonjoy.com/ABC_EAST/index.m3u8
+ABC East, http://fl2.moveonjoy.com/ABC_EAST/index.m3u8
 TLC East, http://fl2.moveonjoy.com/TLC/index.m3u8
 HBO East, http://fl2.moveonjoy.com/HBO/index.m3u8
 HBO2 East, http://fl2.moveonjoy.com/HBO_2/index.m3u8
@@ -196,6 +195,50 @@ Lifetime Movie Network, http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3
 BET Her East, http://fl2.moveonjoy.com/BET_HER/index.m3u8
 BET Soul, http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
 BET Gospel, http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
+ABC EAST,https://fl2.moveonjoy.com/ABC_EAST/index.m3u8
+BRAVO,https://fl2.moveonjoy.com/BRAVO/index.m3u8
+CARTOON NETWORK,https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+CINEMAX EAST,https://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+CNN,https://fl2.moveonjoy.com/CNN/index.m3u8
+DISNEY CHANNEL,https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+DISNEY JR,https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+DISNEY XD,https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+DIY,https://fl2.moveonjoy.com/DIY/index.m3u8
+ESPN,https://fl2.moveonjoy.com/ESPN/index.m3u8
+ESPN2,https://fl2.moveonjoy.com/ESPN_2/index.m3u8
+FOODNETWORK,https://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+FOX EAST,https://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+FREE FORM,https://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+FX,https://fl2.moveonjoy.com/FX/index.m3u8
+FXX,https://fl2.moveonjoy.com/FXX/index.m3u8
+HALLMARK CHANNEL,https://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+HALLMARK DRAMA,https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+HBO,https://fl2.moveonjoy.com/HBO/index.m3u8
+HBO 2,https://fl2.moveonjoy.com/HBO_2/index.m3u8
+HBO FAMILY,https://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
+HGTV,https://fl2.moveonjoy.com/HGTV/index.m3u8
+INVESTIGATION DISCOVERY,https://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+LIFETIME,https://fl2.moveonjoy.com/LIFETIME/index.m3u8
+MLB NETWORK,https://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+MTV,https://fl2.moveonjoy.com/MTV/index.m3u8
+MTV 2,https://fl2.moveonjoy.com/MTV_2/index.m3u8
+NBA TV,https://fl2.moveonjoy.com/NBA_TV/index.m3u8
+NICK JR,https://fl2.moveonjoy.com/NICK_JR/index.m3u8
+NICK MUSIC,https://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+NICKELODEON,https://fl2.moveonjoy.com/NICKELODEON/index.m3u8
+NICKTOONS,https://fl2.moveonjoy.com/NICKTOONS/index.m3u8
+NFL NETWORK,https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+REELZ,https://fl2.moveonjoy.com/REELZ/index.m3u8
+REVOLT,https://fl2.moveonjoy.com/REELZ/index.m3u8
+SUNDANCE,https://fl2.moveonjoy.com/SUNDANCE/index.m3u8
+STARZ,https://fl2.moveonjoy.com/STARZ/index.m3u8
+SYFY,https://fl2.moveonjoy.com/SYFY/index.m3u8
+OXYGEN,https://fl2.moveonjoy.com/OXYGEN/index.m3u8
+TBS,https://fl2.moveonjoy.com/TBS/index.m3u8
+TLC,https://fl2.moveonjoy.com/TLC/index.m3u8
+VH1,https://fl2.moveonjoy.com/VH1/index.m3u8
+WWE,https://fl2.moveonjoy.com/WWE/index.m3u8
+
 
 电影台,#genre#
 绍兴影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
@@ -2530,6 +2573,7 @@ SPA养生之道10-26渴望得到满足的人妻,https://t27.cdn2020.com/video/m3
 看着眼前的女仆萝莉太长时间没操了,https://t30.cdn2020.com/video/m3u8/2025/03/06/90bdc36d/index.m3u8
 警花张津瑜七段整合不雅视频流出,https://t27.cdn2020.com/video/m3u8/2022/07/25/0debd4bc/index.m3u8
 反差婊母狗 清纯靓丽百万粉丝网红 职业汉服模特 焕儿,https://play.baiwanbf.com/20241017/7vl0d9oy/index.m3u8
+
 
 
 
