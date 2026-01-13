@@ -2,19 +2,25 @@
 CCTV-1,http://keke.kandiantv.cn/migu720p.php?id=608807420
 CCTV-2,http://keke.kandiantv.cn/migu720p.php?id=631780532
 CCTV-3,http://keke.kandiantv.cn/migu720p.php?id=624878271
-CCTV-4,http://keke.kandiantv.cn/migu720p.php?id=631780421
-CCTV-4,http://keke.kandiantv.cn/migu720p.php?id=608807419#https://github.com/Supprise0901/TVBox_live/blob/main/live.txt#https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro
-
+CCTV-4,http://keke.kandiantv.cn/migu720p.php?id=631780421#https://cdn.jsdelivr.net/gh/zzgpy1/iptv-api/output/result.txt#https://github.com/Supprise0901/TVBox_live/blob/main/live.txt#https://github.com/cloudplains/jnsj/blob/main/tv202303.txt
+CCTV-4,http://keke.kandiantv.cn/migu720p.php?id=608807419#https://github.com/Supprise0901/TVBox_live/blob/main/live.txt#https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro#https://github.com/FGBLH/FG/blob/main/%E6%B5%B7%E8%B1%9A%E4%BD%AC%E5%BD%B1%E8%A7%86json
+CCTV-5,https://migu.188766.xyz/?migutoken=19d7756686bee8bab550504b3a8e998b&id=CCTV5&type=yy
+CCTV-5+,https://migu.188766.xyz/?migutoken=297fb9c57607a408e6f367a87d1f63c4&id=CCTV5p&type=yy
 CCTV-6,http://keke.kandiantv.cn/migu720p.php?id=624878396
-
+CCTV-7,https://migu.188766.xyz/?migutoken=259bac7b27850790a160a293009d4439&id=CCTV7&type=yy
+CCTV-8,https://migu.188766.xyz/?migutoken=2057c35c462008a95740dffedfc36c99&id=CCTV8&type=yy
 CCTV-9,http://keke.kandiantv.cn/migu720p.php?id=673168140
-
+CCTV-9,https://migu.188766.xyz/?migutoken=e7002072abe31eb664ee38b68a1b8664&id=CCTV9&type=yy
 CCTV-10,http://keke.kandiantv.cn/migu720p.php?id=624878405
 CCTV-10,http://tvlist.top/jd/index.php?id=cctv10&qt=222.128.15.132:8014
-
+CCTV-11,http://keke.kandiantv.cn/migu720p.php?id=667987558
+CCTV-12,http://keke.kandiantv.cn/migu720p.php?id=673168185
+CCTV-13,https://migu.188766.xyz/?migutoken=a3ab25da2c7d76001aec6c0ca7d41dcd&id=CCTV13&type=yy
 CCTV-14,http://keke.kandiantv.cn/migu720p.php?id=624878440
-
+CCTV-15,https://migu.188766.xyz/?migutoken=44c2ed3c026c920db4504a157125cc1b&id=CCTV15&type=yy
+CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16
 CCTV-17,http://keke.kandiantv.cn/migu720p.php?id=673168256
+CCTV-24,http://keke.kandiantv.cn/migu720p.php?id=654102378
 CCTV-1综合,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-1综合,http://iptv.4666888.xyz/iptv2A.php?id=7
 CCTV-1综合,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
@@ -1198,6 +1204,7 @@ ADULTO TRANS 17,http://proxy.nr3.xyz:80/max289/991374465/52163
 ADULTO TRANS 18,http://proxy.nr3.xyz:80/max289/991374465/52164
 ADULTO TRANS 19,http://proxy.nr3.xyz:80/max289/991374465/52165
 ADULTO TRANS 20,http://proxy.nr3.xyz:80/max289/991374465/52166
+
 
 
 
