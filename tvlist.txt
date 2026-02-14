@@ -1,4 +1,10 @@
 央视,#genre#
+CCTV1综合,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2财经,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3综艺,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV4中文国际,http://iptv.4666888.xyz/iptv2A.php?id=10
+CCTV13新闻,http://iptv.4666888.xyz/iptv2A.php?id=11
+CCTV14少儿,http://iptv.4666888.xyz/iptv2A.php?id=12
 CCTV1综合,http://39.152.103.17:8089/tsfile/live/1000_1.m3u8
 CCTV1综合,http://kouki.pro:8888/udp/239.49.8.129:6000
 CCTV1综合,http://5636tv.jiaheysyy.top/dl.php?id=3d8e093d
@@ -225,6 +231,14 @@ CGTN,https://play.kankanlive.com/live/1698423645566913.m3u8
 
 
 卫视,#genre#
+广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
+广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
+广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
+湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
+浙江卫视,http://iptv.4666888.xyz/iptv2A.php?id=14
+江苏卫视,http://iptv.4666888.xyz/iptv2A.php?id=15
+山西卫视,http://iptv.4666888.xyz/iptv2A.php?id=16
+青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
 广东卫视,http://tvlist.top/jd/index.php?id=gdws&qt=118.212.78.251:8014
 广东卫视,http://119.123.176.238:8086/hls/44/index.m3u8
 广东卫视,http://183.7.172.159:8888/hls/1/index.m3u8
@@ -241,7 +255,8 @@ CGTN,https://play.kankanlive.com/live/1698423645566913.m3u8
 深圳卫视,http://tvlist.top/jd/index.php?id=szws&qt=183.224.122.114:8014
 深圳卫视,http://tvlist.top/jd/index.php?id=szws&qt=118.212.78.251:8014
 深圳卫视,https://py.doube.eu.org/ysp/2024061303/600002481
-湖南卫视,http://tvlist.top/jd/index.php?id=hunanws&qt=183.224.122.114:8014
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视,http://dodge.lwfz.fun:8800/rtp/239.16.20.72:10720
 湖南卫视,http://tvlist.top/jd/index.php?id=hunanws&qt=118.212.78.251:8014
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 湖南卫视,http://119.123.176.238:8086/hls/55/index.m3u8
@@ -1646,6 +1661,7 @@ ADULTO TRANS 17,http://proxy.nr3.xyz:80/max289/991374465/52163
 ADULTO TRANS 18,http://proxy.nr3.xyz:80/max289/991374465/52164
 ADULTO TRANS 19,http://proxy.nr3.xyz:80/max289/991374465/52165
 ADULTO TRANS 20,http://proxy.nr3.xyz:80/max289/991374465/52166
+
 
 
 
