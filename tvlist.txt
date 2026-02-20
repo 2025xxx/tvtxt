@@ -670,12 +670,13 @@ myTV SUPER,http://bxtv.3a.ink/api.php?id=qxjd
 
 
 英文台,#genre#
-Young Hollywood,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 HBO,https://hls.iill.top/api/HBO/index.m3u8
 HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
 HBO Family,https://hls.iill.top/api/HBO-Family/index.m3u8
 HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
 HBO WEST,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2490.ts
+HBO DIRECTV,https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+HBO family,http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 FOX NEWS,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
 FOX NEWS,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 FOX 5,https://amg00488-foxdigital-wnyw-lgus-qxl2g.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-wnyw-lgus/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fce05d428b6aa2b50148922611fa83439fd501b2d6d0098311d727f31799c1a38cd741d3e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee15e9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f093a76a94872537aac322f6cad3307d0c75e739231a873983d/36/1920x1080_5701132/index.m3u8
@@ -743,38 +744,7 @@ CityNews Vancouver,https://citynewsregional.akamaized.net/hls/live/1024054/Regio
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 AWE,https://awe-lg.amagi.tv/playlist.m3u8
 AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
-DisneyJr East,http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-TLC East,http://fl2.moveonjoy.com/TLC/index.m3u8
-HBO East,http://fl2.moveonjoy.com/HBO/index.m3u8
-Starz East,http://fl2.moveonjoy.com/STARZ/index.m3u8
-Starz Comedy,http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-Starz Encore Action,http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-Starz Encore Westerns,http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-Showtime 2 East,http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-Showtime Extreme East,http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-Cinemax East,http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-Cartoon Network,http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-Lifetime East,http://fl2.moveonjoy.com/LIFETIME/index.m3u8
-Lifetime Movie,http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-BET Her East,http://fl2.moveonjoy.com/BET_HER/index.m3u8
-BET Soul,http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
-FX East,http://fl2.moveonjoy.com/FX/index.m3u8
-FXX East,http://fl2.moveonjoy.com/FXX/index.m3u8
-SEC Network,http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
-NBC Golf,http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
-Freeform East,http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-SYFY East,http://fl2.moveonjoy.com/SYFY/index.m3u8
-Oxygen True,http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-HBO,https://fl2.moveonjoy.com/HBO/index.m3u8
-FXX East,http://fl2.moveonjoy.com/FXX/index.m3u8
-SEC Network,http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
-NBC Golf,http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
-Freeform East,http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-SYFY East,http://fl2.moveonjoy.com/SYFY/index.m3u8
-Oxygen True Crime,http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-FX East,http://fl2.moveonjoy.com/FX/index.m3u8
 CBS NEWS,https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
-CNN,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129637
 BBC News,http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/445134
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 GB News,http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/445135
@@ -799,6 +769,7 @@ Love Nature,http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/5001/index.
 Fashion Channel,http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
 MTV,http://143.244.60.30/MTV/index.m3u8
+Young Hollywood,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 Travel XP,http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/14026/index.m3u8
 Disney Channel,http://supersonictv.live:8080/live/006779/439866/21795.m3u8
 Disney XD,http://supersonictv.live:8080/live/006779/439866/21801.m3u8
@@ -810,86 +781,11 @@ National Geographic,http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129928
 Kartoon Channel,https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 BBS FO,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-CTV WILD,http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 ABNCHINA,https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-HBO 2 DIRECTV,https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-HBO Family,http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
-HBO Family,http://198.16.100.186:8278/Hbofamily/playlist.m3u8?tid=MF7F5665582956655829&ct=19396&tsum=331322dc3b8b769b97f72fb58165833f
 VOA,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-Disney Channel East, http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-DisneyJr East, http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-DisneyXD East, http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
-ABC East, http://fl2.moveonjoy.com/ABC_EAST/index.m3u8
-TLC East, http://fl2.moveonjoy.com/TLC/index.m3u8
-HBO East, http://fl2.moveonjoy.com/HBO/index.m3u8
-HBO2 East, http://fl2.moveonjoy.com/HBO_2/index.m3u8
-HBO Comedy East, http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
-HBO Family East, http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
-HBO Zone East, http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
-Starz East, http://fl2.moveonjoy.com/STARZ/index.m3u8
-Starz Encore East, http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-Starz Comedy East, http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-Starz Encore Action, http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-Starz Encore Westerns, http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
-Showtime East, http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-Showtime 2 East, http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-Showtime Extreme East, http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-Showtime Next East, http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-Showtime Women East, http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-Cinemax East, http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-Cartoon Network / [adult swim], http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-BBC America: http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-Lifetime East, http://fl2.moveonjoy.com/LIFETIME/index.m3u8
-Lifetime Movie Network, http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-BET Her East, http://fl2.moveonjoy.com/BET_HER/index.m3u8
-BET Soul, http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
-BET Gospel, http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
-ABC EAST,https://fl2.moveonjoy.com/ABC_EAST/index.m3u8
-BRAVO,https://fl2.moveonjoy.com/BRAVO/index.m3u8
-CARTOON NETWORK,https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-CINEMAX EAST,https://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
-CNN,https://fl2.moveonjoy.com/CNN/index.m3u8
-DISNEY CHANNEL,https://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-DISNEY JR,https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-DISNEY XD,https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
-DIY,https://fl2.moveonjoy.com/DIY/index.m3u8
-ESPN,https://fl2.moveonjoy.com/ESPN/index.m3u8
-ESPN2,https://fl2.moveonjoy.com/ESPN_2/index.m3u8
-FOODNETWORK,https://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-FOX EAST,https://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-FREE FORM,https://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-FX,https://fl2.moveonjoy.com/FX/index.m3u8
-FXX,https://fl2.moveonjoy.com/FXX/index.m3u8
-HALLMARK CHANNEL,https://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-HALLMARK DRAMA,https://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
-HBO,https://fl2.moveonjoy.com/HBO/index.m3u8
-HBO 2,https://fl2.moveonjoy.com/HBO_2/index.m3u8
-HBO FAMILY,https://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
-HGTV,https://fl2.moveonjoy.com/HGTV/index.m3u8
-INVESTIGATION DISCOVERY,https://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-LIFETIME,https://fl2.moveonjoy.com/LIFETIME/index.m3u8
-MLB NETWORK,https://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
-MTV,https://fl2.moveonjoy.com/MTV/index.m3u8
-MTV 2,https://fl2.moveonjoy.com/MTV_2/index.m3u8
-NBA TV,https://fl2.moveonjoy.com/NBA_TV/index.m3u8
-NICK JR,https://fl2.moveonjoy.com/NICK_JR/index.m3u8
-NICK MUSIC,https://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
-NICKELODEON,https://fl2.moveonjoy.com/NICKELODEON/index.m3u8
-NICKTOONS,https://fl2.moveonjoy.com/NICKTOONS/index.m3u8
-NFL NETWORK,https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
-REELZ,https://fl2.moveonjoy.com/REELZ/index.m3u8
-REVOLT,https://fl2.moveonjoy.com/REELZ/index.m3u8
-SUNDANCE,https://fl2.moveonjoy.com/SUNDANCE/index.m3u8
-STARZ,https://fl2.moveonjoy.com/STARZ/index.m3u8
-SYFY,https://fl2.moveonjoy.com/SYFY/index.m3u8
-OXYGEN,https://fl2.moveonjoy.com/OXYGEN/index.m3u8
-TBS,https://fl2.moveonjoy.com/TBS/index.m3u8
-TLC,https://fl2.moveonjoy.com/TLC/index.m3u8
-VH1,https://fl2.moveonjoy.com/VH1/index.m3u8
-WWE,https://fl2.moveonjoy.com/WWE/index.m3u8
 
 
-优育台,#genre#
+体育台,#genre#
 ELEVEN sport 1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN sport 2,rtmp://f13h.mine.nu/sat/tv741
 TENNIS CHANNEL,https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
@@ -1769,6 +1665,7 @@ ADULTO TRANS 17,http://proxy.nr3.xyz:80/max289/991374465/52163
 ADULTO TRANS 18,http://proxy.nr3.xyz:80/max289/991374465/52164
 ADULTO TRANS 19,http://proxy.nr3.xyz:80/max289/991374465/52165
 ADULTO TRANS 20,http://proxy.nr3.xyz:80/max289/991374465/52166
+
 
 
 
