@@ -670,6 +670,7 @@ myTV SUPER,http://bxtv.3a.ink/api.php?id=qxjd
 
 
 英文台,#genre#
+3ABN,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 HBO,https://hls.iill.top/api/HBO/index.m3u8
 HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
 HBO Family,https://hls.iill.top/api/HBO-Family/index.m3u8
@@ -782,6 +783,10 @@ Kartoon Channel,https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
 FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 BBS FO,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 ABNCHINA,https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+VOA,https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
+NEWSMAX,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+OAN,https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
+UN,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 VOA,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 
 
@@ -1665,6 +1670,7 @@ ADULTO TRANS 17,http://proxy.nr3.xyz:80/max289/991374465/52163
 ADULTO TRANS 18,http://proxy.nr3.xyz:80/max289/991374465/52164
 ADULTO TRANS 19,http://proxy.nr3.xyz:80/max289/991374465/52165
 ADULTO TRANS 20,http://proxy.nr3.xyz:80/max289/991374465/52166
+
 
 
 
