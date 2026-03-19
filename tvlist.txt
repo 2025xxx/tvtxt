@@ -791,6 +791,12 @@ VOA,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 
 
 体育台,#genre#
+HBO HD,http://104.250.145.76/livehttpplay?channel_id=23356
+HBO FAMILY,http://nor1live.win/livehttpplay?channel_id=23049
+HBO FAMILY,http://104.250.145.76/livehttpplay?channel_id=23358
+HBO PREMUIM,https://s.vdo.ai/vhs/1.m3u8
+HBO SIGNATURE,https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+HBO 2 EAST,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3656.ts
 ELEVEN sport 1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN sport 2,rtmp://f13h.mine.nu/sat/tv741
 TENNIS CHANNEL,https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
